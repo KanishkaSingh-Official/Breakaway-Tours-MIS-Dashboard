@@ -1,25 +1,25 @@
 # Breakaway Tours - Operations & MIS Dashboard ✈️
 
-## 📌 Project Overview
-As the **Co-Founder & Operations Manager** of Breakaway Tours, I developed this MIS system to manage end-to-end travel operations. This project serves as the central nervous system for tracking bookings, managing vendor payments, and analyzing profit margins for group travel across India and Nepal.
-
-## 📊 Key Features
-* **Operational Tracking:** Monitors scheduling, customer communication, and service fulfillment workflows.
-* **Financial Control:** Tracks operational metrics, costs, margins, and cash flow per trip.
-* **Vendor Management:** Database for coordinating with hotels and transport providers to negotiate competitive rates.
-
-## 🛠️ Tools Used
-* **Advanced Excel:** Pivot Tables for data analysis and dashboard visualization.
-* **VBA Macros:** Used for automating repetitive booking tasks (simulated).
-* **Logistics Planning:** Route optimization models for itineraries.
-
-## 📈 Impact
-* **Cost Reduction:** Analyzed vendor data to negotiate better rates, improving margins.
-* **Efficiency:** Reduced manual errors and turnaround time by implementing standardized booking workflows.
+## ⚠️ Disclaimer
+> This project is based on real operational workflows from **Breakaway Tours**. While vendors and locations are real, financial figures and client data have been **randomized** for confidentiality.
 
 ---
-### ⚠️ Disclaimer
-This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been **randomized/anonymized** for confidentiality and educational demonstration purposes.
+
+## 📌 Project Overview
+As the **Co-Founder & Operations Manager** of Breakaway Tours, I developed this MIS system to manage end-to-end travel operations. This project serves as the central nervous system for tracking bookings, managing vendor payments, and analyzing profit margins.
+
+## 📊 Key Features
+* **Operational Tracking:** Monitors scheduling and service fulfillment.
+* **Financial Control:** Tracks operational metrics, costs, and margins.
+* **Vendor Management:** Database for negotiating rates with hotels and transport.
+
+## 📅 Future Project Timeline (2026 Pipeline)
+Upcoming major group departures and logistics planning.
+
+* **September 2026:** 🏢 **Corporate Trip (Goa)** - *Planning Phase*
+* **April 2026:** 🎓 **College Group (Manali)** - *Critical (Advance Pending)*
+* **November 2026:** 💍 **Wedding Group (Udaipur)** - *Logistics Finalized*
+
 ---
 
 ## 📈 Live Business Analytics
@@ -29,7 +29,7 @@ Visually tracking the success rate of our tours.
 
 ```mermaid
 pie
-    title Trip Operations Status (2024-2026)
+    title Trip Operations Overview
     "Completed Trips" : 55
     "Scheduled (Future)" : 25
     "Cancelled/Refunded" : 15
