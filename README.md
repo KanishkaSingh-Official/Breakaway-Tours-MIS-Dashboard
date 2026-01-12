@@ -33,11 +33,7 @@ pie
     "Scheduled (Future)" : 25
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
-
-
-
-
-    gantt
+  gantt
     title Upcoming Projects Timeline (2026)
     dateFormat  YYYY-MM-DD
     section Corporate
