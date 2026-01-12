@@ -21,6 +21,8 @@ As the **Co-Founder & Operations Manager** of Breakaway Tours, I developed this 
 This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been **randomized/anonymized** for confidentiality and educational demonstration purposes.
 ## 📊 Business Performance (Live Analytics)
 
+### 📊 Business Performance
+
 ```mermaid
 pie
     title Trip Status Distribution (2024-2026)
@@ -28,8 +30,12 @@ pie
     "Scheduled (Future)" : 25
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
+
+    ### 📅 Future Project Timeline
+
+```mermaid
 gantt
-    title Trip Planning Timeline (Upcoming)
+    title Upcoming Projects Timeline
     dateFormat  YYYY-MM-DD
     section Corporate
     Goa Trip Planning      :active, 2026-09-01, 30d
