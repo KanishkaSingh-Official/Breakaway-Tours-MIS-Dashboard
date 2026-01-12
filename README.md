@@ -34,7 +34,6 @@ pie
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
 
-
     ### 📅 Future Project Timeline
 
 ```mermaid
