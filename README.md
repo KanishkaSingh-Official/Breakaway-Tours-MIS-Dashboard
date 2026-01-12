@@ -18,6 +18,9 @@ As the **Co-Founder & Operations Manager** of Breakaway Tours, I developed this 
 * **Efficiency:** Reduced manual errors and turnaround time by implementing standardized booking workflows.
 
 ---
+### ⚠️ Disclaimer
+This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been **randomized/anonymized** for confidentiality and educational demonstration purposes.
+---
 
 ## 📈 Live Business Analytics
 
@@ -31,8 +34,3 @@ pie
     "Scheduled (Future)" : 25
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
-
-
----
-### ⚠️ Disclaimer
-This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been **randomized/anonymized** for confidentiality and educational demonstration purposes.
