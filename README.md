@@ -19,7 +19,6 @@ As the **Co-Founder & Operations Manager** of Breakaway Tours, I developed this 
 ---
 ### ⚠️ Disclaimer
 This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been **randomized/anonymized** for confidentiality and educational demonstration purposes.
-## 📊 Business Performance (Live Analytics)
 
 ### 📊 Business Performance
 
@@ -31,10 +30,7 @@ pie
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
 
-    ### 📅 Future Project Timeline
-
-```mermaid
-gantt
+    gantt
     title Upcoming Projects Timeline
     dateFormat  YYYY-MM-DD
     section Corporate
