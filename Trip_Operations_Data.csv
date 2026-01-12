@@ -1,0 +1,7 @@
+Booking_ID,Client_Type,Destination,Travel_Date,Pax_Count,Vendor_Hotel,Transport_Partner,Total_Cost_INR,Revenue_INR,Profit_Margin,Status
+BT-2024-001,Corporate,Shimla,2024-12-05,12,Hotel Willow,Sharma Travels,180000,220000,18.2%,Completed
+BT-2024-002,College Group,Manali,2024-12-15,40,Snow Valley,Volvo Partners,350000,420000,16.6%,Completed
+BT-2025-001,Family,Jaipur,2025-01-10,6,Heritage Inn,Private Cab,45000,60000,25.0%,Completed
+BT-2025-002,College Group,Rishikesh,2025-02-02,25,Camp Wild,Sharma Travels,120000,150000,20.0%,Scheduled
+BT-2025-003,Corporate,Goa,2025-03-15,15,Ocean View,Flight+Cab,250000,310000,19.3%,Planning
+BT-2025-004,Mixed Group,Kasol,2025-04-20,18,Alpine Stay,Volvo Partners,90000,115000,21.7%,Inquiry
