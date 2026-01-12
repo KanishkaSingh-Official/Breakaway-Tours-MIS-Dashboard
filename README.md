@@ -21,6 +21,8 @@ As the **Co-Founder & Operations Manager** of Breakaway Tours, I developed this 
 ### ⚠️ Disclaimer
 **This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been ****randomized/anonymized**** for confidentiality and educational demonstration purposes.**
 ---
+
+
 ```markdown
 ### 📅 Future Project Timeline
 
@@ -34,6 +36,7 @@ gantt
     Manali Group Advance   :crit, 2026-04-01, 20d
     section Wedding
     Udaipur Logistics      :2026-11-01, 45d
+
 
 ## 📈 Live Business Analytics
 
