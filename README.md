@@ -20,22 +20,16 @@ As the **Co-Founder & Operations Manager** of Breakaway Tours, I developed this 
 ### ⚠️ Disclaimer
 This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been **randomized/anonymized** for confidentiality and educational demonstration purposes.
 
-### 📊 Business Performance
+
+## 📈 Live Business Analytics
+
+### Trip Status Distribution
+Visually tracking the success rate of our tours.
 
 ```mermaid
 pie
-    title Trip Status Distribution (2024-2026)
+    title Trip Operations Status (2024-2026)
     "Completed Trips" : 55
     "Scheduled (Future)" : 25
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
-
-    gantt
-    title Upcoming Projects Timeline
-    dateFormat  YYYY-MM-DD
-    section Corporate
-    Goa Trip Planning      :active, 2026-09-01, 30d
-    section College
-    Manali Group Advance   :crit, 2026-04-01, 20d
-    section Wedding
-    Udaipur Logistics      :2026-11-01, 45d
