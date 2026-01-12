@@ -28,3 +28,12 @@ pie
     "Scheduled (Future)" : 25
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
+gantt
+    title Trip Planning Timeline (Upcoming)
+    dateFormat  YYYY-MM-DD
+    section Corporate
+    Goa Trip Planning      :active, 2026-09-01, 30d
+    section College
+    Manali Group Advance   :crit, 2026-04-01, 20d
+    section Wedding
+    Udaipur Logistics      :2026-11-01, 45d
