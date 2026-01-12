@@ -31,3 +31,8 @@ pie
     "Scheduled (Future)" : 25
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
+
+
+---
+### ⚠️ Disclaimer
+This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been **randomized/anonymized** for confidentiality and educational demonstration purposes.
