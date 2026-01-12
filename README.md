@@ -34,19 +34,10 @@ pie
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
 
-    ### 📅 Future Project Timeline
+   ### 📅 Future Project Timeline (2026 Pipeline)
 
-```mermaid
-gantt
-    title Trip Pipeline 2026
-    dateFormat YYYY-MM-DD
-    axisFormat %b-%Y
-    
-    section Corporate
-    Goa Trip (Planning)      : 2026-09-01, 30d
-    
-    section College
-    Manali Group (Advance)   : 2026-04-01, 20d
-    
-    section Wedding
-    Udaipur (Logistics)      : 2026-11-01, 45d
+| Project Type | Destination | Status | Timeline |
+| :--- | :--- | :--- | :--- |
+| **Corporate** | Goa | 🟡 Planning Phase | Sept 2026 |
+| **College** | Manali | 🔴 Critical (Advance Pending) | April 2026 |
+| **Wedding** | Udaipur | 🟢 Logistics Finalized | Nov 2026 |
