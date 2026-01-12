@@ -36,10 +36,8 @@ pie
 
 
 
-   ### 📅 Future Project Timeline (2026 Pipeline)
+ ### 📅 Future Project Timeline (2026 Pipeline)
 
-| Project Type | Destination | Status | Timeline |
-| :--- | :--- | :--- | :--- |
-| **Corporate** | Goa | 🟡 Planning Phase | Sept 2026 |
-| **College** | Manali | 🔴 Critical (Advance Pending) | April 2026 |
-| **Wedding** | Udaipur | 🟢 Logistics Finalized | Nov 2026 |
+* **September 2026:** 🏢 **Corporate Trip (Goa)** - *Planning Phase*
+* **April 2026:** 🎓 **College Group (Manali)** - *Critical (Advance Pending)*
+* **November 2026:** 💍 **Wedding Group (Udaipur)** - *Logistics Finalized*
