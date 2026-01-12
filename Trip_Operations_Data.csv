@@ -1,7 +1,26 @@
 Booking_ID,Client_Type,Destination,Travel_Date,Pax_Count,Vendor_Hotel,Transport_Partner,Total_Cost_INR,Revenue_INR,Profit_Margin,Status
-BT-2024-001,Corporate,Shimla,2024-12-05,12,Hotel Willow,Sharma Travels,180000,220000,18.2%,Completed
-BT-2024-002,College Group,Manali,2024-12-15,40,Snow Valley,Volvo Partners,350000,420000,16.6%,Completed
-BT-2025-001,Family,Jaipur,2025-01-10,6,Heritage Inn,Private Cab,45000,60000,25.0%,Completed
-BT-2025-002,College Group,Rishikesh,2025-02-02,25,Camp Wild,Sharma Travels,120000,150000,20.0%,Scheduled
-BT-2025-003,Corporate,Goa,2025-03-15,15,Ocean View,Flight+Cab,250000,310000,19.3%,Planning
-BT-2025-004,Mixed Group,Kasol,2025-04-20,18,Alpine Stay,Volvo Partners,90000,115000,21.7%,Inquiry
+BT-2024-001,Wedding Group,Rishikesh,2025-07-12,29,Ocean View,Volvo Partners,259115,305496,17.9%,Completed
+BT-2024-002,Corporate,Kasol,2025-05-05,11,Ocean View,Flight+Cab,159500,204000,27.9%,Completed
+BT-2024-003,Family,Manali,2025-12-17,48,Ocean View,Luxury Coach,301536,367873,22.0%,Completed
+BT-2024-004,Mixed Group,Udaipur,2025-04-12,53,Heritage Inn,Sharma Travels,198803,241545,21.5%,Completed
+BT-2024-005,Family,Kerala,2024-11-22,9,Hotel Willow,Sharma Travels,42813,49363,15.3%,Completed
+BT-2024-006,Corporate,Kasol,2025-07-10,46,Taj Lake Palace,Private Cab,315882,362948,14.9%,Completed
+BT-2024-007,College Group,Dubai,2026-03-09,5,Alpine Stay,Flight+Cab,50775,60879,19.9%,Scheduled
+BT-2024-008,Family,Dubai,2026-02-14,45,Hotel Willow,Private Cab,342180,390769,14.2%,Scheduled
+BT-2024-009,Mixed Group,Dubai,2025-05-21,11,Lakeside Retreat,Volvo Partners,103928,135002,29.9%,Completed
+BT-2024-010,Mixed Group,Nainital,2025-01-17,38,Taj Lake Palace,Volvo Partners,261972,338729,29.3%,Completed
+BT-2024-011,Mixed Group,Dubai,2026-03-01,30,Camp Wild,Sharma Travels,310140,389535,25.6%,Scheduled
+BT-2024-012,College Group,Rishikesh,2025-05-10,33,Lakeside Retreat,Private Cab,131571,152753,16.1%,Completed
+BT-2024-013,Wedding Group,Dubai,2025-12-30,47,Lakeside Retreat,Volvo Partners,637602,816768,28.1%,Completed
+BT-2024-014,Wedding Group,Kasol,2025-10-20,33,Camp Wild,Flight+Cab,494373,597202,20.8%,Completed
+BT-2024-015,Corporate,Goa,2025-03-21,60,Hotel Willow,Flight+Cab,528360,594405,12.5%,Completed
+BT-2024-016,Mixed Group,Nainital,2025-08-21,48,Heritage Inn,Private Cab,562608,716199,27.3%,Completed
+BT-2024-017,College Group,Manali,2025-04-25,14,Ocean View,Luxury Coach,65422,79160,21.0%,Completed
+BT-2024-018,Wedding Group,Rishikesh,2025-05-18,10,Camp Wild,Flight+Cab,86100,108744,26.3%,Completed
+BT-2024-019,College Group,Jaipur,2025-11-22,35,Taj Lake Palace,Sharma Travels,234395,263225,12.3%,Completed
+BT-2024-020,Mixed Group,Kerala,2025-06-22,46,Taj Lake Palace,Flight+Cab,504206,608576,20.7%,Completed
+BT-2024-021,Corporate,Kerala,2024-11-02,50,Alpine Stay,Volvo Partners,570200,718452,26.0%,Completed
+BT-2024-022,College Group,Kasol,2025-09-26,43,Alpine Stay,Flight+Cab,297302,357654,20.3%,Completed
+BT-2024-023,College Group,Nainital,2025-06-11,11,Lakeside Retreat,Sharma Travels,134475,155991,16.0%,Completed
+BT-2024-024,College Group,Dubai,2025-01-22,27,Snow Valley,Sharma Travels,215433,263474,22.3%,Completed
+BT-2024-025,College Group,Dubai,2025-10-02,5,Alpine Stay,Flight+Cab,45690,58117,27.2%,Completed
