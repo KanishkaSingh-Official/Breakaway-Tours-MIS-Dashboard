@@ -1,26 +1,51 @@
-Booking_ID,Client_Type,Destination,Travel_Date,Pax_Count,Vendor_Hotel,Transport_Partner,Total_Cost_INR,Revenue_INR,Profit_Margin,Status
-BT-2024-001,Wedding Group,Rishikesh,2025-07-12,29,Ocean View,Volvo Partners,259115,305496,17.9%,Completed
-BT-2024-002,Corporate,Kasol,2025-05-05,11,Ocean View,Flight+Cab,159500,204000,27.9%,Completed
-BT-2024-003,Family,Manali,2025-12-17,48,Ocean View,Luxury Coach,301536,367873,22.0%,Completed
-BT-2024-004,Mixed Group,Udaipur,2025-04-12,53,Heritage Inn,Sharma Travels,198803,241545,21.5%,Completed
-BT-2024-005,Family,Kerala,2024-11-22,9,Hotel Willow,Sharma Travels,42813,49363,15.3%,Completed
-BT-2024-006,Corporate,Kasol,2025-07-10,46,Taj Lake Palace,Private Cab,315882,362948,14.9%,Completed
-BT-2024-007,College Group,Dubai,2026-03-09,5,Alpine Stay,Flight+Cab,50775,60879,19.9%,Scheduled
-BT-2024-008,Family,Dubai,2026-02-14,45,Hotel Willow,Private Cab,342180,390769,14.2%,Scheduled
-BT-2024-009,Mixed Group,Dubai,2025-05-21,11,Lakeside Retreat,Volvo Partners,103928,135002,29.9%,Completed
-BT-2024-010,Mixed Group,Nainital,2025-01-17,38,Taj Lake Palace,Volvo Partners,261972,338729,29.3%,Completed
-BT-2024-011,Mixed Group,Dubai,2026-03-01,30,Camp Wild,Sharma Travels,310140,389535,25.6%,Scheduled
-BT-2024-012,College Group,Rishikesh,2025-05-10,33,Lakeside Retreat,Private Cab,131571,152753,16.1%,Completed
-BT-2024-013,Wedding Group,Dubai,2025-12-30,47,Lakeside Retreat,Volvo Partners,637602,816768,28.1%,Completed
-BT-2024-014,Wedding Group,Kasol,2025-10-20,33,Camp Wild,Flight+Cab,494373,597202,20.8%,Completed
-BT-2024-015,Corporate,Goa,2025-03-21,60,Hotel Willow,Flight+Cab,528360,594405,12.5%,Completed
-BT-2024-016,Mixed Group,Nainital,2025-08-21,48,Heritage Inn,Private Cab,562608,716199,27.3%,Completed
-BT-2024-017,College Group,Manali,2025-04-25,14,Ocean View,Luxury Coach,65422,79160,21.0%,Completed
-BT-2024-018,Wedding Group,Rishikesh,2025-05-18,10,Camp Wild,Flight+Cab,86100,108744,26.3%,Completed
-BT-2024-019,College Group,Jaipur,2025-11-22,35,Taj Lake Palace,Sharma Travels,234395,263225,12.3%,Completed
-BT-2024-020,Mixed Group,Kerala,2025-06-22,46,Taj Lake Palace,Flight+Cab,504206,608576,20.7%,Completed
-BT-2024-021,Corporate,Kerala,2024-11-02,50,Alpine Stay,Volvo Partners,570200,718452,26.0%,Completed
-BT-2024-022,College Group,Kasol,2025-09-26,43,Alpine Stay,Flight+Cab,297302,357654,20.3%,Completed
-BT-2024-023,College Group,Nainital,2025-06-11,11,Lakeside Retreat,Sharma Travels,134475,155991,16.0%,Completed
-BT-2024-024,College Group,Dubai,2025-01-22,27,Snow Valley,Sharma Travels,215433,263474,22.3%,Completed
-BT-2024-025,College Group,Dubai,2025-10-02,5,Alpine Stay,Flight+Cab,45690,58117,27.2%,Completed
+Booking_ID,Client_Type,Destination,Travel_Date,Pax,Vendor,Transport,Cost_INR,Revenue_INR,Margin,Status,Operational_Issue
+BT-25-001,Solo Travelers,Shimla,2025-06-30,59,Snow Valley,Charter Bus,558612,0,0.0%,Cancelled,Client Cancelled
+BT-25-002,Wedding Group,Kasol,2025-01-29,11,Camp Wild,Sharma Travels,70543,92267,30.8%,Pending Payment,None
+BT-24-003,College Group,Manali,2025-05-23,16,Snow Valley,Volvo Partners,100832,131819,30.7%,Completed,Customer Complaint (Food)
+BT-25-004,College Group,Goa,2025-08-22,39,Ocean View,Flight+Cab,958152,191630,-80.0%,Refunded,Service Failure Refund
+BT-24-005,College Group,Rishikesh,2025-03-10,31,Camp Wild,Private Cab,558465,671621,20.3%,Scheduled,None
+BT-24-006,Wedding Group,Shimla,2025-04-24,39,Ocean View,Flight+Cab,824811,956158,15.9%,Scheduled,None
+BT-25-007,Solo Travelers,Manali,2024-12-24,45,Snow Valley,Charter Bus,190530,0,0.0%,Cancelled,Client Cancelled
+BT-24-008,College Group,Kerala,2025-03-28,40,Grand Resort,Flight+Cab,978600,1196846,22.3%,Completed,Flight Delay
+BT-25-009,Wedding Group,Jaipur,2024-08-31,6,Heritage Inn,Charter Bus,82032,92345,12.6%,Completed,None
+BT-25-010,Wedding Group,Andaman,2024-05-11,43,Ocean View,Flight+Cab,577318,115463,-80.0%,Refunded,Cyclone Warning
+BT-25-011,Solo Travelers,Nepal (Kathmandu),2024-10-15,33,Himalaya View,Flight+Cab,471534,627891,33.1%,Completed,Border Permit Delay
+BT-24-012,College Group,Jaisalmer,2024-11-12,43,Desert Camp,Volvo Partners,696944,909468,30.5%,Completed,None
+BT-24-013,Wedding Group,Shimla,2025-04-20,26,City Center Hotel,Charter Bus,620100,0,0.0%,Cancelled,Client Cancelled
+BT-25-014,College Group,Jaipur,2025-03-31,49,City Center Hotel,Private Cab,670026,0,0.0%,Cancelled,Client Cancelled
+BT-25-015,Family,Shimla,2025-03-14,27,Grand Resort,Private Cab,564651,689849,22.2%,Scheduled,None
+BT-25-016,Corporate,Kasol,2025-01-23,26,City Center Hotel,Flight+Cab,114296,0,0.0%,Cancelled,Client Cancelled
+BT-25-017,Family,Manali,2024-11-12,31,Grand Resort,Private Cab,167648,0,0.0%,Cancelled,Client Cancelled
+BT-24-018,Solo Travelers,Udaipur,2024-04-17,6,Heritage Inn,Charter Bus,124224,24844,-80.0%,Refunded,Service Failure Refund
+BT-24-019,College Group,Rishikesh,2025-03-07,44,Ocean View,Charter Bus,1092080,0,0.0%,Cancelled,Client Cancelled
+BT-24-020,Solo Travelers,Jaipur,2025-06-26,31,Camp Wild,Charter Bus,172825,204954,18.6%,Completed,Bus Breakdown
+BT-24-021,Corporate,Kasol,2024-11-15,30,Heritage Inn,Volvo Partners,409290,81858,-80.0%,Refunded,Landslide Issue
+BT-25-022,Solo Travelers,Jaipur,2025-06-23,54,Ocean View,Volvo Partners,1325268,0,0.0%,Cancelled,Client Cancelled
+BT-24-023,Solo Travelers,Kerala,2024-03-29,12,City Center Hotel,Private Cab,146568,29313,-80.0%,Refunded,Service Failure Refund
+BT-24-024,Solo Travelers,Kasol,2025-08-10,30,Camp Wild,Volvo Partners,393780,78756,-80.0%,Refunded,Service Failure Refund
+BT-24-025,Corporate,Goa,2024-11-18,56,Heritage Inn,Flight+Cab,472304,94460,-80.0%,Refunded,Service Failure Refund
+BT-25-026,Wedding Group,Rishikesh,2024-07-22,54,Grand Resort,Volvo Partners,1169046,1391117,19.0%,Pending Payment,Heavy Rain
+BT-25-027,Solo Travelers,Coorg,2024-05-05,45,Coffee Estate Stay,Volvo Partners,256095,0,0.0%,Cancelled,Client Cancelled
+BT-24-028,Solo Travelers,Udaipur,2024-04-11,36,Camp Wild,Flight+Cab,303912,60782,-80.0%,Refunded,Service Failure Refund
+BT-25-029,Solo Travelers,Kasol,2024-05-05,59,Heritage Inn,Private Cab,369340,413470,11.9%,Completed,None
+BT-24-030,Family,Udaipur,2024-06-13,21,Camp Wild,Sharma Travels,99183,122420,23.4%,Pending Payment,None
+BT-25-031,Wedding Group,Goa,2024-09-13,13,Snow Valley,Volvo Partners,291356,322023,10.5%,Completed,None
+BT-25-032,Solo Travelers,Manali,2025-02-05,35,Grand Resort,Volvo Partners,829115,0,0.0%,Cancelled,Client Cancelled
+BT-24-033,Corporate,Kasol,2024-11-01,32,Camp Wild,Charter Bus,623040,728900,17.0%,Pending Payment,Driver Late
+BT-25-034,Family,Rishikesh,2025-08-01,57,Ocean View,Charter Bus,1226754,1633544,33.2%,Completed,None
+BT-25-035,College Group,Jaipur,2025-05-10,14,Snow Valley,Flight+Cab,311472,402912,29.4%,Completed,AC Malfunction in Bus
+BT-24-036,Family,Pondicherry,2024-02-03,40,Beach Villa,Private Cab,654600,761564,16.3%,Scheduled,None
+BT-25-037,Wedding Group,Manali,2024-02-04,15,Heritage Inn,Private Cab,353085,400420,13.4%,Scheduled,None
+BT-25-038,Wedding Group,Jaipur,2024-05-15,52,Grand Resort,Private Cab,974376,0,0.0%,Cancelled,Client Cancelled
+BT-24-039,Solo Travelers,Manali,2024-04-12,34,City Center Hotel,Volvo Partners,842996,1115227,32.3%,Completed,None
+BT-25-040,Corporate,Goa,2025-04-05,30,Grand Resort,Charter Bus,501060,0,0.0%,Cancelled,Client Cancelled
+BT-24-041,Wedding Group,Manali,2025-08-23,36,Heritage Inn,Flight+Cab,534960,718305,34.3%,Completed,None
+BT-25-042,College Group,Kasol,2025-07-07,37,Camp Wild,Sharma Travels,180930,36186,-80.0%,Refunded,Landslide Issue
+BT-25-043,Solo Travelers,Manali,2024-08-31,24,Ocean View,Private Cab,192696,253713,31.7%,Scheduled,None
+BT-25-044,Wedding Group,Shimla,2024-05-13,50,Ocean View,Charter Bus,294900,334659,13.5%,Completed,None
+BT-25-045,Family,Andaman,2024-10-26,51,Island Resort,Flight+Ferry,465885,599292,28.6%,Completed,None
+BT-25-046,College Group,Goa,2025-07-27,34,Heritage Inn,Sharma Travels,508878,615288,20.9%,Completed,Weather Disruption
+BT-24-047,Solo Travelers,Udaipur,2025-01-26,60,Snow Valley,Private Cab,1320060,1665014,26.1%,Pending Payment,None
+BT-24-048,Wedding Group,Rishikesh,2025-01-03,50,Snow Valley,Sharma Travels,718550,865686,20.5%,Completed,None
+BT-25-049,College Group,Rishikesh,2025-02-04,24,Camp Wild,Volvo Partners,175896,199885,13.6%,Completed,None
+BT-25-050,Family,Manali,2025-08-24,31,Snow Valley,Private Cab,301258,402854,33.7%,Completed,Vendor Delay
