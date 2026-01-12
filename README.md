@@ -16,3 +16,6 @@ As the **Co-Founder & Operations Manager** of Breakaway Tours, I developed this 
 ## 📈 Impact
 * [cite_start]**Cost Reduction:** Analyzed vendor data to negotiate better rates, improving margins[cite: 176].
 * [cite_start]**Efficiency:** Reduced manual errors and turnaround time by implementing standardized booking workflows[cite: 125].
+---
+### ⚠️ Disclaimer
+This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been **randomized/anonymized** for confidentiality and educational demonstration purposes.
