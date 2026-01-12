@@ -34,6 +34,8 @@ pie
     "Cancelled/Refunded" : 15
     "In Planning Phase" : 5
 
+
+
    ### 📅 Future Project Timeline (2026 Pipeline)
 
 | Project Type | Destination | Status | Timeline |
