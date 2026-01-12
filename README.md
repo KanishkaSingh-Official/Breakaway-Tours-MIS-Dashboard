@@ -19,3 +19,12 @@ As the **Co-Founder & Operations Manager** of Breakaway Tours, I developed this 
 ---
 ### ⚠️ Disclaimer
 This project is based on real operational workflows from **Breakaway Tours**. While the vendors and locations are real, the specific financial figures and client data have been **randomized/anonymized** for confidentiality and educational demonstration purposes.
+## 📊 Business Performance (Live Analytics)
+
+```mermaid
+pie
+    title Trip Status Distribution (2024-2026)
+    "Completed Trips" : 55
+    "Scheduled (Future)" : 25
+    "Cancelled/Refunded" : 15
+    "In Planning Phase" : 5
